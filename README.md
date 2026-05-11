@@ -19,7 +19,7 @@ Pick whichever path matches your comfort level. **Path 1 is the easiest** — no
 5. **Import the project.** On the Vercel dashboard click **Add New → Project**. Find `photopark-ar` in the list and click **Import**. Vercel will auto-detect this is a Vite app. Don't change any settings. Click **Deploy**.
 6. **Wait about a minute.** When the build finishes, Vercel gives you a public URL like `photopark-ar-xxx.vercel.app`. That's your live demo.
 
-**Bonus:** any future edits you push to GitHub auto-redeploy. You can even edit `src/App.jsx` directly in the GitHub web UI for quick tweaks.
+**Bonus:** any future edits you push to  GitHub auto-redeploy. You can even edit `src/App.jsx` directly in the GitHub web UI for quick tweaks.
 
 ---
 
